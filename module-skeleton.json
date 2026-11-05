@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-employee-expenses-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-employee-expenses",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-employee-expenses-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/employee-expenses.md",
+  "presentationPlan": "projects/accounting/nextjs/employee-expenses.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
